@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "nodemon": "^3.0.3"
+  }
+}
