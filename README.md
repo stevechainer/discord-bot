@@ -1,1 +1,1 @@
-This project is discord bot replying pong to user's ping.
+This project is a Discord bot that replies "pong" to a user's "ping."
