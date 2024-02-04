@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "moment-timezone": "^0.5.44",
+    "node-fetch": "^3.3.2",
     "nodemon": "^3.0.3"
   }
 }
